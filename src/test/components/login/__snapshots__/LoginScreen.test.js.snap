@@ -1,0 +1,40 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en <LoginScreen/> Debe mostrar el componente correctamente 1`] = `
+<div
+  className="container mt-5"
+>
+  <h1>
+    Login
+  </h1>
+  <hr />
+  <div
+    className="row "
+  >
+    <div
+      className="col-4 align-self-center"
+    >
+      <button
+        className="btn btn-primary btn-lg btn-block active"
+        onClick={[Function]}
+        style={
+          Object {
+            "width": "100%",
+          }
+        }
+      >
+        Login
+      </button>
+    </div>
+    <div
+      className="col-8 align-self-center"
+    >
+      <img
+        alt="caratula"
+        className="img-fluid"
+        src="/assets/marvelvsdc.jpg"
+      />
+    </div>
+  </div>
+</div>
+`;
